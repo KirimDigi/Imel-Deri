@@ -1,0 +1,900 @@
+Uri: https://by.ourevent.id/wp-content/uploads/2026/03/1200px-Bank_Central_Asia.svg-1.png
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\2026\03\1200px-Bank_Central_Asia.svg-1.png
+Content Type: image/png
+
+Uri: https://by.ourevent.id/wp-content/uploads/2026/03/bank_bank-aceh-1.png
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\2026\03\bank_bank-aceh-1.png
+Content Type: image/png
+
+Uri: https://by.ourevent.id/wp-content/uploads/2026/03/bank_bni-1.png
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\2026\03\bank_bni-1.png
+Content Type: image/png
+
+Uri: https://by.ourevent.id/wp-content/uploads/2026/03/logo-bcas-full-color-1.png
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\2026\03\logo-bcas-full-color-1.png
+Content Type: image/png
+
+Uri: https://by.zehaninv.id/3d-vintage-botanica/
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\3d-vintage-botanica\index.htm
+Content Type: text/html
+
+Uri: https://by.zehaninv.id/3d-vintage-botanica/?post_id=1378&comments=0&get=500&order=DESC
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\3d-vintage-botanica\index-1.htm
+Content Type: text/html
+
+Uri: https://by.zehaninv.id/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/css/eae.min.css?ver=1.14.5
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\css\eae.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/animated-main.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\js\animated-main.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/eae.min.js?ver=1.14.5
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\js\eae.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/iconHelper.js?ver=1.0
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\js\iconHelper.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/particles.min.js?ver=2.0.0
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\js\particles.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/magnific.min.js?ver=1.1.0
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\lib\magnific.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/peel/peel.css?ver=1.14.5
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\lib\peel\peel.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/vegas/vegas.min.css?ver=2.4.0
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\lib\vegas\vegas.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/vegas/vegas.min.js?ver=2.4.0
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\lib\vegas\vegas.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/addon-elements-for-elementor-page-builder/build/index.min.js?ver=1.14.5
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\addon-elements-for-elementor-page-builder\build\index.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor-pro/assets/css/conditionals/transitions.min.css?ver=4.2.3
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor-pro\assets\css\conditionals\transitions.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=4.2.3
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor-pro\assets\css\modules\sticky.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor-pro/assets/css/widget-countdown.min.css?ver=4.2.3
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor-pro\assets\css\widget-countdown.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor-pro/assets/css/widget-gallery.min.css?ver=4.2.3
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor-pro\assets\css\widget-gallery.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor-pro/assets/css/widget-lottie.min.css?ver=4.2.3
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor-pro\assets\css\widget-lottie.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.2.3
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.2.3
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=4.2.3
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor-pro/assets/lib/lottie/lottie.min.js?ver=5.6.6
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor-pro\assets\lib\lottie\lottie.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=4.2.3
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\css\widget-spacer.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/css/widget-video.min.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\css\widget-video.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.2.4
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.2.4
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.2.4
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInDown.min.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInDown.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInUp.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/lib/animations/styles/zoomIn.min.css?ver=4.2.4
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\lib\animations\styles\zoomIn.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\lib\e-gallery\css\e-gallery.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js?ver=1.2.0
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\lib\e-gallery\js\e-gallery.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.53.0
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\elementor\assets\lib\swiper\v8\swiper.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/jet-elements/assets/css/addons/jet-timeline.css?ver=2.9.2.1
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\jet-elements\assets\css\addons\jet-timeline.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/jet-elements/assets/css/jet-elements.css?ver=2.9.2.1
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\jet-elements\assets\css\jet-elements.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/jet-elements/assets/css/skin/jet-timeline.css?ver=2.9.2.1
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\jet-elements\assets\css\skin\jet-timeline.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/jet-elements/assets/js/addons/jet-timeline.min.js?ver=2.9.2.1
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\jet-elements\assets\js\addons\jet-timeline.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/jet-elements/assets/js/jet-elements.min.js?ver=2.9.2.1
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\jet-elements\assets\js\jet-elements.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/jet-elements/assets/js/lib/tweenjs/tweenjs.min.js?ver=2.0.2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\jet-elements\assets\js\lib\tweenjs\tweenjs.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.14.3
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\jet-engine\assets\css\frontend.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/our-event-souvenir-card/assets/css/public.css?ver=1.5.8
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\our-event-souvenir-card\assets\css\public.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/our-event-souvenir-card/assets/js/public-card.js?ver=1.5.8
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\our-event-souvenir-card\assets\js\public-card.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/pixelyoursite/dist/scripts/jquery.bind-first-0.2.3.min.js?ver=0.2.3
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\pixelyoursite\dist\scripts\jquery.bind-first-0.2.3.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/pixelyoursite/dist/scripts/js.cookie-2.1.3.min.js?ver=2.1.3
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\pixelyoursite\dist\scripts\js.cookie-2.1.3.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/pixelyoursite/dist/scripts/public.js?ver=11.4.0
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\pixelyoursite\dist\scripts\public.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/pixelyoursite/dist/scripts/sha256.js?ver=0.11.0
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\pixelyoursite\dist\scripts\sha256.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/pixelyoursite/dist/scripts/tld.min.js?ver=2.3.1
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\pixelyoursite\dist\scripts\tld.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/weddingpress-copy-text/assets/wdp.css?ver=1790695332
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\weddingpress-copy-text\assets\wdp.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/weddingsaas-pro/assets/css/wds-elementor.css?ver=2.10.4
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\weddingsaas-pro\assets\css\wds-elementor.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/plugins/weddingsaas-pro/assets/js/wds-elementor-audio.js?ver=2.10.4
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\weddingsaas-pro\assets\js\wds-elementor-audio.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/weddingsaas-pro/assets/js/wds-rsvp.js?ver=2.10.4
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\weddingsaas-pro\assets\js\wds-rsvp.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/weddingsaas-pro/assets/plugins/custom/commentpress/saic_lib.js?ver=2.10.4
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\weddingsaas-pro\assets\plugins\custom\commentpress\saic_lib.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/plugins/weddingsaas-pro/assets/plugins/custom/commentpress/saic_style.css?ver=2.10.4
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\plugins\weddingsaas-pro\assets\plugins\custom\commentpress\saic_style.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/themes/generatepress/assets/css/components/comments.min.css?ver=3.6.1
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\themes\generatepress\assets\css\components\comments.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.6.1
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\themes\generatepress\assets\css\main.min.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\themes\generatepress\assets\js\menu.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-content/uploads/2026/04/bunga-glass-house-no-wm-003-BPzJvN.png
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\2026\04\bunga-glass-house-no-wm-003-BPzJvN.png
+Content Type: image/png
+
+Uri: https://by.zehaninv.id/wp-content/uploads/2026/04/cropped-cropped-logo-2-bg-coklat-1-1-2-180x180.jpg
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\2026\04\cropped-cropped-logo-2-bg-coklat-1-1-2-180x180.jpg
+Content Type: image/jpeg
+
+Uri: https://by.zehaninv.id/wp-content/uploads/2026/04/cropped-cropped-logo-2-bg-coklat-1-1-2-192x192.jpg
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\2026\04\cropped-cropped-logo-2-bg-coklat-1-1-2-192x192.jpg
+Content Type: image/jpeg
+
+Uri: https://by.zehaninv.id/wp-content/uploads/2026/04/cropped-cropped-logo-2-bg-coklat-1-1-2-32x32.jpg
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\2026\04\cropped-cropped-logo-2-bg-coklat-1-1-2-32x32.jpg
+Content Type: image/jpeg
+
+Uri: https://by.zehaninv.id/wp-content/uploads/elementor/css/post-1581.css?ver=1790766036
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\elementor\css\post-1581.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/uploads/elementor/css/post-7.css?ver=1790765389
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-content/uploads/jet-form-builder/0777d5c17d4066b82ab86dff8a46af6f/2026/04/daffa-nisa-zehan-invitation-bride-SGWbjL.webp
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\jet-form-builder\0777d5c17d4066b82ab86dff8a46af6f\2026\04\daffa-nisa-zehan-invitation-bride-SGWbjL.webp
+Content Type: image/webp
+
+Uri: https://by.zehaninv.id/wp-content/uploads/jet-form-builder/0777d5c17d4066b82ab86dff8a46af6f/2026/04/daffa-nisa-zehan-invitation-groom-uwyiwf-1.webp
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\jet-form-builder\0777d5c17d4066b82ab86dff8a46af6f\2026\04\daffa-nisa-zehan-invitation-groom-uwyiwf-1.webp
+Content Type: image/webp
+
+Uri: https://by.zehaninv.id/wp-content/uploads/jet-form-builder/3636638817772e42b59d74cff571fbb3/2026/04/daffa-nisa-zehan-invitation-2-3-YmVF5F-2.webp
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\jet-form-builder\3636638817772e42b59d74cff571fbb3\2026\04\daffa-nisa-zehan-invitation-2-3-YmVF5F-2.webp
+Content Type: image/webp
+
+Uri: https://by.zehaninv.id/wp-content/uploads/jet-form-builder/3636638817772e42b59d74cff571fbb3/2026/04/daffa-nisa-zehan-invitation-3-QHmsND-1.webp
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\jet-form-builder\3636638817772e42b59d74cff571fbb3\2026\04\daffa-nisa-zehan-invitation-3-QHmsND-1.webp
+Content Type: image/webp
+
+Uri: https://by.zehaninv.id/wp-content/uploads/jet-form-builder/3636638817772e42b59d74cff571fbb3/2026/04/daffa-nisa-zehan-invitation-4-MS7Yfb-2.webp
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\jet-form-builder\3636638817772e42b59d74cff571fbb3\2026\04\daffa-nisa-zehan-invitation-4-MS7Yfb-2.webp
+Content Type: image/webp
+
+Uri: https://by.zehaninv.id/wp-content/uploads/jet-form-builder/3636638817772e42b59d74cff571fbb3/2026/04/daffa-nisa-zehan-invitation-cover-2-Flmh7T-2.webp
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\jet-form-builder\3636638817772e42b59d74cff571fbb3\2026\04\daffa-nisa-zehan-invitation-cover-2-Flmh7T-2.webp
+Content Type: image/webp
+
+Uri: https://by.zehaninv.id/wp-content/uploads/jet-form-builder/ae4954bd7d1f28d4b124063731338ae0/2026/04/daffa-nisa-zehan-invitation-1-gcXfdu-2.webp
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\jet-form-builder\ae4954bd7d1f28d4b124063731338ae0\2026\04\daffa-nisa-zehan-invitation-1-gcXfdu-2.webp
+Content Type: image/webp
+
+Uri: https://by.zehaninv.id/wp-content/uploads/jet-form-builder/ae4954bd7d1f28d4b124063731338ae0/2026/04/daffa-nisa-zehan-invitation-3-QHmsND.webp
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\jet-form-builder\ae4954bd7d1f28d4b124063731338ae0\2026\04\daffa-nisa-zehan-invitation-3-QHmsND.webp
+Content Type: image/webp
+
+Uri: https://by.zehaninv.id/wp-content/uploads/jet-form-builder/ae4954bd7d1f28d4b124063731338ae0/2026/04/daffa-nisa-zehan-invitation-4-MS7Yfb-1.webp
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\jet-form-builder\ae4954bd7d1f28d4b124063731338ae0\2026\04\daffa-nisa-zehan-invitation-4-MS7Yfb-1.webp
+Content Type: image/webp
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/1164Silent-Caroline.woff2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\1164Silent-Caroline.woff2
+Content Type: font/woff2
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/1502MeshedDisplay.woff2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\1502MeshedDisplay.woff2
+Content Type: font/woff2
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/1598Qene-G.woff2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\1598Qene-G.woff2
+Content Type: font/woff2
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/2015Iskry-Regular.woff2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\2015Iskry-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/2312Andrea-Bellarosa.woff2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\2312Andrea-Bellarosa.woff2
+Content Type: font/woff2
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/2350Madelyn.woff2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\2350Madelyn.woff2
+Content Type: font/woff2
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/2701Iskry.woff2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\2701Iskry.woff2
+Content Type: font/woff2
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/3077Brittany.woff2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\3077Brittany.woff2
+Content Type: font/woff2
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/3979Brittany-Signature.woff2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\3979Brittany-Signature.woff2
+Content Type: font/woff2
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/4709Analogue.woff2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\4709Analogue.woff2
+Content Type: font/woff2
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/4868Amsterdam-One.woff2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\4868Amsterdam-One.woff2
+Content Type: font/woff2
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/4915hatolie.woff2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\4915hatolie.woff2
+Content Type: font/woff2
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/5293Aston-Script.woff2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\5293Aston-Script.woff2
+Content Type: font/woff2
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/5421Amiri-Bold.woff2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\5421Amiri-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/6750edwardianscriptitc.woff2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\6750edwardianscriptitc.woff2
+Content Type: font/woff2
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/6821montecarlo.woff2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\6821montecarlo.woff2
+Content Type: font/woff2
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/7117photograph.woff2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\7117photograph.woff2
+Content Type: font/woff2
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/7576ShelleyAndanteBT.woff2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\7576ShelleyAndanteBT.woff2
+Content Type: font/woff2
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/7851Saudagar.woff2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\7851Saudagar.woff2
+Content Type: font/woff2
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/8140garlicha.woff2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\8140garlicha.woff2
+Content Type: font/woff2
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/8907Amiri.woff2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\8907Amiri.woff2
+Content Type: font/woff2
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/9060IvyMode-Regular.woff2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\9060IvyMode-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://by.zehaninv.id/wp-content/uploads/useanyfont/uaf.css?ver=1787227964
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\useanyfont\uaf.css
+Content Type: text/css
+
+Uri: https://by.zehaninv.id/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-includes\js\jquery\ui\core.min.js
+Content Type: text/javascript
+
+Uri: https://by.zehaninv.id/wp-json/
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://by.zehaninv.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fby.zehaninv.id%2F3d-vintage-botanica%2F
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://by.zehaninv.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fby.zehaninv.id%2F3d-vintage-botanica%2F&format=xml
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://by.zehaninv.id/wp-json/wp/v2/posts/1378
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-json\wp\v2\posts\1378
+Content Type: application/json
+
+Uri: https://cdn.jsdelivr.net/npm/sweetalert2@11
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\npm\sweetalert2@11
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Epilogue:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Abhaya+Libre:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\css-10
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Aboreto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\css-5
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Acme:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\css-11
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Alice:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\css-13
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Caudex:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\css-6
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Clicker+Script:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\css-12
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Cormorant:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\css-9
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Forum:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Libre+Caslon+Display:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lora:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lusitana:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\css-8
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Pinyon+Script:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\css-7
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\css-14
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEY22_CrdZM.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\abhayalibre\v18\e3t5euGtX-Co5MNzeAOqinEY22_CrdZM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEYj2rCrdZM.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\abhayalibre\v18\e3t5euGtX-Co5MNzeAOqinEYj2rCrdZM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEYo23CrdZM.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\abhayalibre\v18\e3t5euGtX-Co5MNzeAOqinEYo23CrdZM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEYx2zCrdZM.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\abhayalibre\v18\e3t5euGtX-Co5MNzeAOqinEYx2zCrdZM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/abhayalibre/v18/e3tmeuGtX-Co5MNzeAOqinEQfEnS.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\abhayalibre\v18\e3tmeuGtX-Co5MNzeAOqinEQfEnS.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/aboreto/v2/5DCXAKLhwDDQ4N8bpKPUBw.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\aboreto\v2\5DCXAKLhwDDQ4N8bpKPUBw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/acme/v29/RrQfboBx-C5_XxrBaw.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\acme\v29\RrQfboBx-C5_XxrBaw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alice/v21/OpNCnoEEmtHa6GcOrgs.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\alice\v21\OpNCnoEEmtHa6GcOrgs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/caudex/v19/esDQ311QOP6BJUr4zfKE.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\caudex\v19\esDQ311QOP6BJUr4zfKE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/caudex/v19/esDS311QOP6BJUr4yMKDtb8.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\caudex\v19\esDS311QOP6BJUr4yMKDtb8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/caudex/v19/esDT311QOP6BJUrwdteUkp8G.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\caudex\v19\esDT311QOP6BJUrwdteUkp8G.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/caudex/v19/esDV311QOP6BJUr4yMo4kK8BMpA.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\caudex\v19\esDV311QOP6BJUr4yMo4kK8BMpA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/clickerscript/v14/raxkHiKPvt8CMH6ZWP8PdlEq71rf0T4.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\clickerscript\v14\raxkHiKPvt8CMH6ZWP8PdlEq71rf0T4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v24/H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQ9fda7yWv.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\cormorant\v24\H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQ9fda7yWv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v24/H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQdfBa7yWv.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\cormorant\v24\H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQdfBa7yWv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v24/H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQmfda7yWv.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\cormorant\v24\H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQmfda7yWv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v24/H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQq_da7yWv.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\cormorant\v24\H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQq_da7yWv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v24/H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQTPBa7yWv.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\cormorant\v24\H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQTPBa7yWv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v24/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFhFTc7Nq6A.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\cormorant\v24\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFhFTc7Nq6A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v24/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFiNTc7Nq6A.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\cormorant\v24\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFiNTc7Nq6A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v24/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFk9Tc7Nq6A.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\cormorant\v24\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFk9Tc7Nq6A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v24/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFs9Uc7Nq6A.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\cormorant\v24\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFs9Uc7Nq6A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v24/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFvZUc7Nq6A.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\cormorant\v24\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFvZUc7Nq6A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTiDA.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\epilogue\v20\O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTiDA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTiDA.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\epilogue\v20\O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTiDA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXAjPiDA.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\epilogue\v20\O4ZMFGj5hxF0EhjimngomvnCCtqb30OXAjPiDA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPiDA.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\epilogue\v20\O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPiDA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/forum/v19/6aey4Ky-Vb8Ew8IROpc.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\forum\v19\6aey4Ky-Vb8Ew8IROpc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librecaslondisplay/v18/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lWfxw.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\librecaslondisplay\v18\TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lWfxw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkqg.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\lora\v37\0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787wsuxJBkqg.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\lora\v37\0QI6MX1D_JOuGQbT0gvTJPa787wsuxJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787z5vBJBkqg.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\lora\v37\0QI6MX1D_JOuGQbT0gvTJPa787z5vBJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787zAvBJBkqg.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\lora\v37\0QI6MX1D_JOuGQbT0gvTJPa787zAvBJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v37/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-BQCoq92mQ.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\lora\v37\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-BQCoq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v37/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0Coq92mQ.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\lora\v37\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0Coq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v37/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoq92mQ.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\lora\v37\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v37/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-PgFoq92mQ.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\lora\v37\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-PgFoq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lusitana/v14/CSR74z9ShvucWzsMKyDmafctaNM.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\lusitana\v14\CSR74z9ShvucWzsMKyDmafctaNM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lusitana/v14/CSR84z9ShvucWzsMKyhdTOc.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\lusitana\v14\CSR84z9ShvucWzsMKyhdTOc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/pinyonscript/v24/6xKpdSJbL9-e9LuoeQiDRQR8WOXaPw.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\pinyonscript\v24\6xKpdSJbL9-e9LuoeQiDRQR8WOXaPw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\poppins\v24\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\poppins\v24\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\poppins\v24\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\poppins\v24\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\poppins\v24\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\poppins\v24\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\poppins\v24\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\poppins\v24\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\poppins\v24\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\poppins\v24\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\poppins\v24\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://www.facebook.com/tr?id=742825314754046&ev=PageView&noscript=1&cd[post_category]=ART+NON+ADAT&cd[page_title]=3D+Vintage+Botanica&cd[post_type]=post&cd[post_id]=1378&cd[plugin]=PixelYourSite&cd[user_role]=guest&cd[event_url]=by.zehaninv.id%2F3d-vintage-botanica%2F
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\tr
+Content Type: text/plain
+
+Uri: https://zehaninv.id/wp-content/uploads/2025/08/logo-4-png-2-e1722418062474-1.png
+File Name: C:\Downloaded Web Sites\by.zehaninv.id\wp-content\uploads\2025\08\logo-4-png-2-e1722418062474-1.png
+Content Type: image/png
+

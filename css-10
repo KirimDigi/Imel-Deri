@@ -1,0 +1,35 @@
+﻿@font-face {
+  font-family: 'Abhaya Libre';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/abhayalibre/v18/e3tmeuGtX-Co5MNzeAOqinEQfEnS.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Abhaya Libre';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEYj2rCrdZM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Abhaya Libre';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEYo23CrdZM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Abhaya Libre';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEYx2zCrdZM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Abhaya Libre';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEY22_CrdZM.ttf) format('truetype');
+}

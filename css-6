@@ -1,0 +1,28 @@
+﻿@font-face {
+  font-family: 'Caudex';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/caudex/v19/esDS311QOP6BJUr4yMKDtb8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Caudex';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/caudex/v19/esDV311QOP6BJUr4yMo4kK8BMpA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Caudex';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/caudex/v19/esDQ311QOP6BJUr4zfKE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Caudex';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/caudex/v19/esDT311QOP6BJUrwdteUkp8G.ttf) format('truetype');
+}

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <title>Memuat Undangan...</title>
+  <script>
+    var path = window.location.pathname;
+    var segments = path.split('/').filter(Boolean);
+    var base = segments.length > 0 ? '/' + segments[0] + '/' : './';
+    window.location.replace(base + window.location.search + window.location.hash);
+  </script>
+</head>
+<body>
+  <p>Memuat undangan pernikahan...</p>
+</body>
+</html>

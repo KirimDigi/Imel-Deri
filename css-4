@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Forum';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/forum/v19/6aey4Ky-Vb8Ew8IROpc.ttf) format('truetype');
+}
