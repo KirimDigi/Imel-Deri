@@ -760,7 +760,66 @@
   box-shadow: 0 4px 15px rgba(0,0,0,0.2) !important;
   font-size: 18px !important;
   cursor: pointer !important;
+  transition: transform 0.2s ease !important;
+}
+.elementor-element.elementor-element-d848563 .elementor-icon:hover {
+  transform: scale(1.08) !important;
 }
 #wds_audio_play, #wds_audio_pause {
   cursor: pointer !important;
+  -webkit-tap-highlight-color: transparent !important;
+  user-select: none !important;
+}
+#wds_audio_play *, #wds_audio_pause * {
+  pointer-events: none !important;
+}
+#wds_audio_play .elementor-icon {
+  animation: wdpMP3-muter 4s linear infinite !important;
+}
+#wds_audio_pause .elementor-icon {
+  animation: none !important;
+}
+#cover.cover, .cover {
+  z-index: 999999 !important;
+}
+
+/* Logo Bank BRI pada Card Rekening - Geser ke Kanan */
+.elementor-element.elementor-element-24dea54c,
+.elementor-element.elementor-element-1800c6f8 {
+  display: flex !important;
+  justify-content: flex-end !important;
+  --justify-content: flex-end !important;
+  align-items: flex-start !important;
+  padding-right: 18px !important;
+  padding-top: 12px !important;
+  box-sizing: border-box !important;
+}
+
+.elementor-element.elementor-element-5f86902b,
+.elementor-element.elementor-element-50e333a6 {
+  width: 100% !important;
+  display: flex !important;
+  justify-content: flex-end !important;
+  text-align: right !important;
+}
+
+.elementor-element.elementor-element-5f86902b .elementor-widget-container,
+.elementor-element.elementor-element-50e333a6 .elementor-widget-container {
+  width: 100% !important;
+  display: flex !important;
+  justify-content: flex-end !important;
+  text-align: right !important;
+}
+
+.elementor-element.elementor-element-5f86902b img,
+.elementor-element.elementor-element-50e333a6 img {
+  width: auto !important;
+  max-width: 44px !important;
+  max-height: 38px !important;
+  height: auto !important;
+  object-fit: contain !important;
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: 0 !important;
+  vertical-align: top !important;
 }

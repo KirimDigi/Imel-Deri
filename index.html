@@ -269,6 +269,42 @@ document.addEventListener('DOMContentLoaded', () => {
 @font-face{font-family:amsterdam-one;font-style:normal;font-weight:400;font-display:fallback;src:url('wp-content/uploads/useanyfont/4868Amsterdam-One.woff2') format('woff2');}
 @font-face{font-family:madelyn;font-style:normal;font-weight:400;font-display:fallback;src:url('wp-content/uploads/useanyfont/2350Madelyn.woff2') format('woff2');}
 @font-face{font-family:brittany;font-style:normal;font-weight:400;font-display:fallback;src:url('wp-content/uploads/useanyfont/3077Brittany.woff2') format('woff2');}
+
+/* Mobile zoom-out fix for Dress Code slideshow */
+@media (max-width: 767px) {
+  .elementor-1581 .elementor-element.elementor-element-d69ad15,
+  .elementor-element.elementor-element-d69ad15 {
+    --min-height: clamp(260px, 38vh, 350px) !important;
+    min-height: clamp(260px, 38vh, 350px) !important;
+    height: clamp(260px, 38vh, 350px) !important;
+  }
+  .elementor-1581 .elementor-element.elementor-element-d69ad15 .elementor-background-slideshow,
+  .elementor-element.elementor-element-d69ad15 .elementor-background-slideshow {
+    height: 100% !important;
+  }
+  .elementor-1581 .elementor-element.elementor-element-d69ad15 .elementor-background-slideshow__slide__image,
+  .elementor-element.elementor-element-d69ad15 .elementor-background-slideshow__slide__image {
+    background-size: cover !important;
+    background-position: center center !important;
+  }
+  .elementor-element.elementor-element-d69ad15 .elementor-ken-burns,
+  .elementor-element.elementor-element-d69ad15 .elementor-ken-burns--in,
+  .elementor-element.elementor-element-d69ad15 .elementor-ken-burns--out,
+  .elementor-element.elementor-element-d69ad15 .elementor-ken-burns--active.elementor-ken-burns--in,
+  .elementor-element.elementor-element-d69ad15 .elementor-ken-burns--active.elementor-ken-burns--out {
+    transform: scale(1) !important;
+    animation: none !important;
+    transition: none !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  .elementor-1581 .elementor-element.elementor-element-d69ad15,
+  .elementor-element.elementor-element-d69ad15 {
+    --min-height: 55vh !important;
+    min-height: 55vh !important;
+    height: 55vh !important;
+  }
+}
 </style>
 <link rel="icon" href="KirimDigi.ico" type="image/x-icon">
 <link rel="shortcut icon" href="KirimDigi.ico" type="image/x-icon">
@@ -433,52 +469,74 @@ function enableScroll() {
     document.body.classList.remove("stop-scrolling");
 }
 function _playAudio(){
-    if(!ytMusicPlaying) {
-        if(document.body.contains(document.getElementById("song"))) {
-    		document.getElementById("song").play();
-    		isYT = false;
-    	} else {
-    		isYT = true;
-            jQuery("iframe").each(function() {
-                if(this.id==='youtube-player') jQuery(this)[0].contentWindow.postMessage('{"event":"command","func":"playVideo","args":""}', '*')
-                //jQuery("#ytSound").animate({ bottom: "0px"}, 1500);
-            });
-    	}
-        ytMusicPlaying = true;
-        jQuery("#wds_audio_play").show();
-        jQuery("#wds_audio_pause").hide();
-        jQuery("#wds_audio_play .elementor-icon, #wds_audio_pause .elementor-icon").addClass('audioRotate');
-        discMusics.forEach((disc) => {
-            disc.classList.add('audioRotate');
+    var song = document.getElementById("song");
+    if(song) {
+        var p = song.play();
+        if (p !== undefined) {
+            p.catch(function(err){ console.log("Audio play err:", err); });
+        }
+        isYT = false;
+    } else {
+        isYT = true;
+        jQuery("iframe").each(function() {
+            if(this.id==='youtube-player') jQuery(this)[0].contentWindow.postMessage('{"event":"command","func":"playVideo","args":""}', '*');
         });
     }
+    ytMusicPlaying = true;
+    window._userPaused = false;
+    jQuery("#wds_audio_play").show();
+    jQuery("#wds_audio_pause").hide();
+    jQuery("#wds_audio_play .elementor-icon").addClass('audioRotate');
+    discMusics.forEach((disc) => {
+        disc.classList.add('audioRotate');
+    });
 }
 function _pauseAudio(){
-    if(ytMusicPlaying) {
-        if(document.body.contains(document.getElementById("song"))) {
-    		document.getElementById("song").pause();
-    		isYT = false;
-    	} else {
-    		isYT = true;
-            jQuery("iframe").each(function() {
-                if(this.id==='youtube-player') jQuery(this)[0].contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*');
-                //jQuery("#ytSound").animate({ bottom: "-320px"}, 1500);
-            });
-    	}
-    	ytMusicPlaying = false;
-        jQuery("#wds_audio_play").hide();
-        jQuery("#wds_audio_pause").show();
-        jQuery("#wds_audio_play .elementor-icon, #wds_audio_pause .elementor-icon").removeClass('audioRotate');
-        discMusics.forEach((disc) => {
-            disc.classList.remove('audioRotate');
-        });
+    var song = document.getElementById("song");
+    if(song) {
+        song.pause();
+        isYT = false;
     } else {
-        _playAudio();
+        isYT = true;
+        jQuery("iframe").each(function() {
+            if(this.id==='youtube-player') jQuery(this)[0].contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*');
+        });
+    }
+    ytMusicPlaying = false;
+    window._userPaused = true;
+    jQuery("#wds_audio_play").hide();
+    jQuery("#wds_audio_pause").show();
+    jQuery("#wds_audio_play .elementor-icon, #wds_audio_pause .elementor-icon").removeClass('audioRotate');
+    discMusics.forEach((disc) => {
+        disc.classList.remove('audioRotate');
+    });
+}
+function _toggleAudio(e){
+    if(e){
+        e.preventDefault();
+        e.stopPropagation();
+    }
+    var song = document.getElementById("song");
+    if(song) {
+        if(song.paused){
+            _playAudio();
+        } else {
+            _pauseAudio();
+        }
+    } else {
+        if(ytMusicPlaying){
+            _pauseAudio();
+        } else {
+            _playAudio();
+        }
     }
 }
-jQuery(document).on("click", "#wds_audio_play, #wds_audio_pause, #wds_audio_play .elementor-icon, #wds_audio_pause .elementor-icon", function(e){
-    e.preventDefault();
-    _pauseAudio();
+window._playAudio = _playAudio;
+window._pauseAudio = _pauseAudio;
+window._toggleAudio = _toggleAudio;
+
+jQuery(document).on("click", "#wds_audio_play, #wds_audio_pause", function(e){
+    _toggleAudio(e);
 });
 </script>
 				</div>
@@ -1016,7 +1074,7 @@ jQuery(document).on("click", "#wds_audio_play, #wds_audio_pause, #wds_audio_play
     }
   },
   &quot;retina_detect&quot;: true
-}" class="has_eae_slider elementor-element elementor-element-d69ad15 e-con-full eae-particle-yes e-flex e-con e-child" data-eae-slider="70957" data-id="d69ad15" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;background_slideshow_ken_burns&quot;:&quot;yes&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:2035,&quot;url&quot;:&quot;dc.jpeg&quot;},{&quot;id&quot;:2036,&quot;url&quot;:&quot;dc2.jpeg&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500,&quot;background_slideshow_ken_burns_zoom_direction&quot;:&quot;in&quot;}">
+}" class="has_eae_slider elementor-element elementor-element-d69ad15 e-con-full eae-particle-yes e-flex e-con e-child" data-eae-slider="70957" data-id="d69ad15" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;background_slideshow_ken_burns&quot;:&quot;yes&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:2035,&quot;url&quot;:&quot;dc.jpeg&quot;},{&quot;id&quot;:2036,&quot;url&quot;:&quot;dc2.jpeg&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500,&quot;background_slideshow_ken_burns_zoom_direction&quot;:&quot;out&quot;}">
 				</div>
 		<div class="has_eae_slider elementor-element elementor-element-65c908dc e-con-full wdsdv-enabled--yes e-flex e-con e-child" data-eae-slider="51958" data-id="65c908dc" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
 				<div class="elementor-element elementor-element-5f2abeec reveal elementor-widget elementor-widget-heading" data-id="5f2abeec" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;zoomIn&quot;}" data-widget_type="heading.default">
@@ -1251,9 +1309,9 @@ jQuery(document).on("click", "#wds_audio_play, #wds_audio_pause, #wds_audio_play
 		</div>
 						</div>
 				</div>
-		<div class="has_eae_slider elementor-element elementor-element-24dea54c e-con-full e-flex e-con e-child" data-eae-slider="35498" data-id="24dea54c" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
-				<div class="elementor-element elementor-element-5f86902b elementor-widget elementor-widget-image" data-id="5f86902b" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
-															<img src="wp-content/uploads/2026/03/logo-bcas-full-color-1.png" title="" alt="" loading="lazy">															</div>
+		<div class="has_eae_slider elementor-element elementor-element-24dea54c e-con-full e-flex e-con e-child" data-eae-slider="35498" data-id="24dea54c" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}" style="justify-content: flex-end; padding-right: 18px; padding-top: 12px;">
+				<div class="elementor-element elementor-element-5f86902b elementor-widget elementor-widget-image" data-id="5f86902b" data-element_type="widget" data-e-type="widget" data-widget_type="image.default" style="display: flex; justify-content: flex-end; width: 100%;">
+															<img src="wp-content/uploads/2026/03/Bank_BRI_2000.svg" title="Bank BRI" alt="Bank BRI" loading="lazy" style="max-width:44px;max-height:38px;width:auto;height:auto;object-fit:contain;margin-left:auto;margin-right:0;display:block;">															</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-7ad8323d elementor-widget elementor-widget-heading" data-id="7ad8323d" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
@@ -1663,9 +1721,9 @@ btnAmplop.onclick = function() {
 		</div>
 						</div>
 				</div>
-		<div class="has_eae_slider elementor-element elementor-element-1800c6f8 e-con-full e-flex e-con e-child" data-eae-slider="76524" data-id="1800c6f8" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
-				<div class="elementor-element elementor-element-50e333a6 elementor-widget elementor-widget-image" data-id="50e333a6" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
-															<img src="wp-content/uploads/2026/03/logo-bcas-full-color-1.png" title="" alt="" loading="lazy">															</div>
+		<div class="has_eae_slider elementor-element elementor-element-1800c6f8 e-con-full e-flex e-con e-child" data-eae-slider="76524" data-id="1800c6f8" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}" style="justify-content: flex-end; padding-right: 18px; padding-top: 12px;">
+				<div class="elementor-element elementor-element-50e333a6 elementor-widget elementor-widget-image" data-id="50e333a6" data-element_type="widget" data-e-type="widget" data-widget_type="image.default" style="display: flex; justify-content: flex-end; width: 100%;">
+															<img src="wp-content/uploads/2026/03/Bank_BRI_2000.svg" title="Bank BRI" alt="Bank BRI" loading="lazy" style="max-width:44px;max-height:38px;width:auto;height:auto;object-fit:contain;margin-left:auto;margin-right:0;display:block;">															</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-14a9c3ad elementor-widget elementor-widget-heading" data-id="14a9c3ad" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
@@ -2023,12 +2081,12 @@ var WdsAudio = {"source":"url","audio_link":"Shane Filan - Beautiful In White (O
 		
 			<div class="elementor-icon-wrapper" id="wds_audio_play" style="display:none;">
 				<div class="elementor-icon">
-				<i aria-hidden="true" class="fas fa-volume-mute"></i>				</div>
+				<i aria-hidden="true" class="fas fa-music"></i>				</div>
 			</div> 
 
 			<div class="elementor-icon-wrapper" id="wds_audio_pause">
 				<div class="elementor-icon">
-				<i aria-hidden="true" class="fas fa-music"></i>				</div>
+				<i aria-hidden="true" class="fas fa-volume-mute"></i>				</div>
 			</div>
 
 			<div id="wds-audio-box" style="display:none !important;">
