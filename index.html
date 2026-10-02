@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="id" prefix="og: https://ogp.me/ns#">
 <head>
 	<meta charset="UTF-8">
@@ -1979,16 +1979,16 @@ btnAmplop.onclick = function() {
 						</button>
 					</div>
 
+					<!-- Kotak Daftar Ucapan di dalam bingkai border -->
+					<div id="wds-rsvp-comments-box" style="display: none; margin-top: 15px; width: 100%;">
+						<div id="saic-comment-status-1378" class="saic-comment-status"></div>
+						<ul id="saic-container-comment-1378" class="wds-custom-comments-list" style="display: block !important;"></ul>
+					</div>
+
 				</div>
 
 			</div>
 
-		</div>
-
-		<div id="wds-rsvp-comments-box" style="display: none; margin-top: 15px;">
-			<div id="saic-comment-status-1378" class="saic-comment-status"></div>
-			<ul id="saic-container-comment-1378" class="saic-container-comments wds-custom-comments-list" data-order="DESC"></ul>
-			<div class="saic-holder-1378 saic-holder"></div>
 		</div>
 
 	</div>
@@ -2944,40 +2944,56 @@ var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof H
     <!-- STYLING & SCRIPT GOOGLE APPS SCRIPT RSVP -->
     <style id="wds-gas-rsvp-style">
         /* Tombol Tampilkan & Sembunyikan Ucapan */
-        .wds-btn-toggle-rsvp {
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            gap: 8px;
-            background-color: #866350;
+        .wds-btn-toggle-rsvp,
+        button#btn-toggle-rsvp.wds-btn-toggle-rsvp {
+            display: inline-flex !important;
+            align-items: center !important;
+            justify-content: center !important;
+            gap: 8px !important;
+            background: #866350 !important;
+            background-color: #866350 !important;
             color: #ffffff !important;
-            border: none;
-            border-radius: 25px;
-            padding: 9px 24px;
-            font-size: 13px;
-            font-weight: 600;
-            cursor: pointer;
-            box-shadow: 0 4px 12px rgba(134, 99, 80, 0.25);
-            transition: all 0.3s ease;
+            border: none !important;
+            border-radius: 25px !important;
+            padding: 10px 24px !important;
+            font-size: 13px !important;
+            font-weight: 600 !important;
+            cursor: pointer !important;
+            box-shadow: 0 4px 14px rgba(134, 99, 80, 0.3) !important;
+            transition: all 0.3s ease !important;
             text-decoration: none !important;
-            outline: none;
+            outline: none !important;
+            margin: 5px auto !important;
         }
-        .wds-btn-toggle-rsvp:hover {
-            background-color: #725241;
-            transform: translateY(-2px);
-            box-shadow: 0 6px 16px rgba(134, 99, 80, 0.35);
+        .wds-btn-toggle-rsvp:hover,
+        button#btn-toggle-rsvp.wds-btn-toggle-rsvp:hover {
+            background: #6e4e3c !important;
+            background-color: #6e4e3c !important;
+            transform: translateY(-2px) !important;
+            box-shadow: 0 6px 18px rgba(134, 99, 80, 0.4) !important;
         }
         .wds-btn-toggle-rsvp:active {
-            transform: translateY(0);
+            transform: translateY(0) !important;
         }
         /* Container Ucapan */
-        .wds-custom-comments-list {
+        #wds-rsvp-comments-box {
+            width: 100% !important;
+            clear: both !important;
+            margin-top: 15px !important;
+        }
+        .saic-wrapper ul.wds-custom-comments-list,
+        ul.wds-custom-comments-list {
+            display: block !important;
+            visibility: visible !important;
+            opacity: 1 !important;
             list-style: none !important;
             margin: 0 !important;
-            padding: 4px 6px !important;
-            max-height: 400px;
+            padding: 4px 0 !important;
+            max-height: 420px;
             overflow-y: auto;
             text-align: left;
+            clear: both !important;
+            border: none !important;
         }
         .wds-custom-comments-list::-webkit-scrollbar {
             width: 5px;
@@ -2986,80 +3002,89 @@ var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof H
             background: #866350;
             border-radius: 10px;
         }
-        .wds-comment-card {
-            background: rgba(255, 255, 255, 0.9);
-            border: 1px solid rgba(134, 99, 80, 0.25);
-            border-radius: 12px;
-            padding: 14px 16px;
-            margin-bottom: 12px;
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+        li.wds-comment-card {
+            background: #ffffff !important;
+            border: 1px solid rgba(134, 99, 80, 0.25) !important;
+            border-radius: 12px !important;
+            padding: 14px 16px !important;
+            margin-bottom: 12px !important;
+            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05) !important;
             animation: fadeInUcapan 0.4s ease-out;
+            clear: both !important;
+            text-align: left !important;
+            display: block !important;
+            list-style: none !important;
         }
         @keyframes fadeInUcapan {
             from { opacity: 0; transform: translateY(6px); }
             to { opacity: 1; transform: translateY(0); }
         }
+        .wds-comment-card * {
+            box-sizing: border-box;
+        }
         .wds-comment-header {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            flex-wrap: wrap;
-            gap: 6px;
-            margin-bottom: 8px;
+            display: flex !important;
+            align-items: center !important;
+            justify-content: space-between !important;
+            flex-wrap: wrap !important;
+            gap: 6px !important;
+            margin-bottom: 6px !important;
         }
         .wds-comment-name {
-            font-weight: 700;
-            color: #5c4334;
-            font-size: 14px;
-            display: flex;
-            align-items: center;
-            gap: 6px;
+            font-weight: 700 !important;
+            color: #5c4334 !important;
+            font-size: 14px !important;
+            display: flex !important;
+            align-items: center !important;
+            gap: 6px !important;
         }
         .wds-comment-badge {
-            font-size: 11px;
-            font-weight: 600;
-            padding: 3px 10px;
-            border-radius: 12px;
-            display: inline-block;
+            font-size: 11px !important;
+            font-weight: 600 !important;
+            padding: 3px 10px !important;
+            border-radius: 12px !important;
+            display: inline-block !important;
         }
         .wds-badge-hadir {
-            background-color: #e2f0d9;
-            color: #276a3c;
-            border: 1px solid rgba(39, 106, 60, 0.2);
+            background-color: #e2f0d9 !important;
+            color: #276a3c !important;
+            border: 1px solid rgba(39, 106, 60, 0.25) !important;
         }
         .wds-badge-tidak-hadir {
-            background-color: #fbeae5;
-            color: #9c3b29;
-            border: 1px solid rgba(156, 59, 41, 0.2);
+            background-color: #fbeae5 !important;
+            color: #9c3b29 !important;
+            border: 1px solid rgba(156, 59, 41, 0.25) !important;
         }
         .wds-comment-text {
-            color: #333333;
-            font-size: 13px;
-            line-height: 1.55;
-            word-break: break-word;
-            white-space: pre-wrap;
-            margin: 6px 0;
+            color: #2b2b2b !important;
+            font-size: 13.5px !important;
+            line-height: 1.55 !important;
+            word-break: break-word !important;
+            white-space: pre-wrap !important;
+            margin: 8px 0 !important;
         }
         .wds-comment-time {
-            font-size: 11px;
-            color: #999999;
-            display: flex;
-            align-items: center;
-            gap: 4px;
-            margin-top: 6px;
+            font-size: 11px !important;
+            color: #8c827a !important;
+            display: flex !important;
+            align-items: center !important;
+            gap: 4px !important;
+            margin-top: 4px !important;
         }
         .wds-rsvp-empty {
             text-align: center;
-            padding: 25px 15px;
+            padding: 22px 12px;
             color: #866350;
             font-size: 13px;
             font-style: italic;
+            list-style: none !important;
         }
         .wds-rsvp-loading {
             text-align: center;
-            padding: 20px;
+            padding: 18px;
             color: #866350;
             font-size: 13px;
+            list-style: none !important;
         }
         .wds-alert-success {
             background-color: #e2f0d9;
@@ -3077,12 +3102,10 @@ var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof H
     (function($) {
         // =========================================================================
         // KONFIGURASI GOOGLE APPS SCRIPT WEB APP
-        // Ganti URL di bawah ini dengan URL Web App hasil Deploy Google Apps Script:
         // =========================================================================
-        var GAS_URL = "https://script.google.com/macros/s/AKfycbzo-0vcERinJYENwZKMzOE3KnVXCgc4E3zRC1oQ4lK0-tfjn7HAAuaBz8XoTVvzA7Oe/exec"; // Contoh: "https://script.google.com/macros/s/AKfycb.../exec"
+        var GAS_URL = "https://script.google.com/macros/s/AKfycbzo-0vcERinJYENwZKMzOE3KnVXCgc4E3zRC1oQ4lK0-tfjn7HAAuaBz8XoTVvzA7Oe/exec";
         var STORAGE_KEY = "imel_deri_rsvp_data";
 
-        // Inisialisasi Nama Tamu dari URL ke Input Nama jika kosong
         function prefillGuestName() {
             var inputAuthor = $("#author");
             if (inputAuthor.length && !inputAuthor.val()) {
@@ -3165,7 +3188,8 @@ var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof H
             if (GAS_URL && GAS_URL.startsWith("http")) {
                 $("#saic-container-comment-1378").html('<li class="wds-rsvp-loading"><i class="fas fa-spinner fa-spin"></i> Memuat ucapan...</li>');
                 
-                fetch(GAS_URL)
+                var fetchUrl = GAS_URL + (GAS_URL.indexOf("?") === -1 ? "?" : "&") + "t=" + new Date().getTime();
+                fetch(fetchUrl)
                     .then(function(res) { return res.json(); })
                     .then(function(res) {
                         if (res && res.status === "success" && Array.isArray(res.data)) {
@@ -3191,10 +3215,14 @@ var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof H
             var $label = $("#label-toggle-rsvp");
             var $icon = $(this).find("i");
 
-            if ($box.is(":hidden")) {
+            if ($box.is(":hidden") || $box.css("display") === "none") {
                 $box.slideDown(300);
                 $label.text("Sembunyikan Ucapan");
                 $icon.attr("class", "fas fa-eye-slash");
+                // Jika list masih kosong atau hanya loading, muat ulang
+                if ($("#saic-container-comment-1378 li.wds-comment-card").length === 0) {
+                    loadComments();
+                }
             } else {
                 $box.slideUp(300);
                 $label.text("Tampilkan Ucapan");
@@ -3220,7 +3248,6 @@ var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof H
             var guestVal = ($guest.val() || "1").trim();
             var commentVal = ($comment.val() || "").trim();
 
-            // Validasi
             if (!authorVal) {
                 alert("Silakan masukkan nama Anda.");
                 $author.focus();
@@ -3245,10 +3272,8 @@ var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof H
                 return false;
             }
 
-            // Ubah state tombol
             $submitBtn.prop("disabled", true).val("Mengirim...");
 
-            // Objek ucapan baru
             var now = new Date();
             var dateStr = now.toLocaleDateString("id-ID", { day: "numeric", month: "short", year: "numeric" }) + ", " + 
                           String(now.getHours()).padStart(2, '0') + ":" + String(now.getMinutes()).padStart(2, '0');
@@ -3261,7 +3286,6 @@ var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof H
                 jumlah: guestVal
             };
 
-            // Simpan lokal seketika
             var localData = [];
             try {
                 localData = JSON.parse(localStorage.getItem(STORAGE_KEY)) || [];
@@ -3269,18 +3293,15 @@ var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof H
             localData.unshift(newComment);
             localStorage.setItem(STORAGE_KEY, JSON.stringify(localData));
 
-            // Render langsung ke UI
             renderComments(localData);
 
             // Buka list ucapan jika tertutup
             var $box = $("#wds-rsvp-comments-box");
-            if ($box.is(":hidden")) {
-                $box.slideDown(300);
-                $("#label-toggle-rsvp").text("Sembunyikan Ucapan");
-                $("#btn-toggle-rsvp i").attr("class", "fas fa-eye-slash");
-            }
+            $box.slideDown(300);
+            $("#label-toggle-rsvp").text("Sembunyikan Ucapan");
+            $("#btn-toggle-rsvp i").attr("class", "fas fa-eye-slash");
 
-            // Kirim ke Google Apps Script jika ada URL
+            // Kirim ke Google Apps Script
             if (GAS_URL && GAS_URL.startsWith("http")) {
                 var formData = new URLSearchParams();
                 formData.append("nama", authorVal);
@@ -3295,18 +3316,18 @@ var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof H
                     body: formData.toString()
                 }).then(function() {
                     console.log("Ucapan terkirim ke Google Sheets");
+                    // Refresh data dari sheet
+                    setTimeout(loadComments, 1000);
                 }).catch(function(err) {
                     console.warn("Error kirim ke GAS:", err);
                 });
             }
 
-            // Tampilkan alert sukses
             $status.html('<div class="wds-alert-success"><i class="fas fa-check-circle"></i> Terima kasih atas doa dan ucapan Anda!</div>').show();
             setTimeout(function() {
                 $status.fadeOut(600);
             }, 4000);
 
-            // Reset form input
             $comment.val("");
             $("#rsvp-char-count").text("500");
             $submitBtn.prop("disabled", false).val("Kirim");
@@ -3314,7 +3335,6 @@ var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof H
             return false;
         });
 
-        // Jalankan saat ready
         $(document).ready(function() {
             prefillGuestName();
             loadComments();
